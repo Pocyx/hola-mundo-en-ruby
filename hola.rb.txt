@@ -1,1 +1,5 @@
 puts "hola-mundo-en-ruby"
+puts "Que es tu nombre?"
+nombre = gets.chomp
+puts "! hola " + nombre + " !"
+puts "Aqui estamos"
